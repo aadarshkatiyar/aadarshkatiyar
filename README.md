@@ -9,11 +9,11 @@
 
 - ⚡ Fun fact **I believe that I am funny**
 - ## SKILLS
-- EXCEL, SPREADSHEETS
-- BUSINESS INTELLIGENCE (POWER BI)
-- SQL (MY SQL, POSTGRESQL, ORACLE SQL SERVER)
-- DATA ANALYSIS
-- DASHBOARDS CREATIONS (KPI DASHBOARDS, PERFORMANCE DASHBOARDS)
+- Excel, Spreadsheets
+- Business Intelligence (POWER BI)
+- SQL (My SQL, POSTGRESQL, Oracle SQL Server)
+- Data Analysis
+- Dashboards Creations (KPI Dashboards, Performance Dashboards)
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">

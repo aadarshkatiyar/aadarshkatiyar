@@ -8,6 +8,8 @@
 - 📫 How to reach me **adarshkatiyar9956@gmail.com**
 
 - ⚡ Fun fact **I believe that I am funny**
+- ## SKILLS
+- --Excel
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

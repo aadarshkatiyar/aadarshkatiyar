@@ -9,8 +9,12 @@
 
 - ⚡ Fun fact **I believe that I am funny**
 - ## SKILLS
-- --Excel
-
+- EXCEL, SPREADSHEETS
+- BUSINESS INTELLIGENCE (POWER BI)
+- SQL (MY SQL, POSTGRESQL, ORACLE SQL SERVER)
+- DATA ANALYSIS
+- DASHBOARDS CREATIONS (KPI DASHBOARDS, PERFORMANCE DASHBOARDS)
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aadarshkatiyar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aadarshkatiyar" height="30" width="40" /></a>
